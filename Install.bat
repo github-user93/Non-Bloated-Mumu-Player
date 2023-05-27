@@ -1,6 +1,6 @@
 color a
 cd C:\Users\%USERNAME%\Downloads
-curl https://a11.gdl.netease.com/MuMuInstaller_12.0.0.6_12beta-gw_all_1666787338.exe -o Mumu.exe
+curl https://a11.gdl.netease.com/MuMuInstaller_12.0.0.6_12beta-gw-offline_all_1666787400.exe -o Mumu.exe
 mkdir AndroidLaunchers
 cd C:\Users\%USERNAME%\Downloads\AndroidLaunchers
 curl https://github.com/LawnchairLauncher/lawnchair/releases/download/v12.1.0-alpha.4/Lawnchair.12.1.0.Alpha.4.apk -o Lawnchair.12.1.0.Alpha.4.apk
