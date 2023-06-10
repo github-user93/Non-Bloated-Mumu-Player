@@ -3,7 +3,7 @@ cd C:\Users\%USERNAME%\Downloads
 curl https://a11.gdl.netease.com/MuMuInstaller_12.0.0.6_12beta-gw-offline_all_1666787400.exe -o Mumu.exe
 mkdir AndroidLaunchers
 cd C:\Users\%USERNAME%\Downloads\AndroidLaunchers
-curl https://github.com/LawnchairLauncher/lawnchair/releases/download/v12.1.0-alpha.4/Lawnchair.12.1.0.Alpha.4.apk -o Lawnchair.12.1.0.Alpha.4.apk
+curl https://f-droid.org/repo/ch.deletescape.lawnchair.plah_2001.apk -o lawnchair.apk
 curl https://f-droid.org/repo/fr.neamar.kiss_206.apk -o fr.neamar.kiss_206.apk
 curl https://cloclo54.datacloudmail.ru/public/get/7YHNpnRnuzvjepP2FhB626HUvf1Bzo3GPk2re4drn6SR8ykwQhBmC4nonMqVxPAYdSVRkT/no/novalauncherprime55modt-androidoyunclub.apk -o novalauncherprime55modt-androidoyunclub.apk 
 curl https://github.com/MM2-0/Kvaesitso/releases/download/v1.24.2/de.mm20.launcher2.release_2023042300.apk -o de.mm20.launcher2.release_2023042300.apk
